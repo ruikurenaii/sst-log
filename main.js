@@ -1,6 +1,6 @@
 // last update: check the website
 const android_rank = 18;
-const ios_rank = 829;
+const ios_rank = 768;
 
 // strings
 const android_string = `Rank #${android_rank}`;
