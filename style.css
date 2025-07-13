@@ -1,0 +1,31 @@
+body {
+  font-size: 15pt;
+  text-align: center;
+  background-color: #222222;
+  color: #FFFFFF;
+  font-family: "Jura", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal; 
+}
+#container {
+  background-color: #00000080;
+  padding: 10px;
+  margin: auto;
+  width: 320px;
+  border-radius: 20px;
+}
+#android p,
+#android h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#ios p,
+#ios h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#android,
+#ios {
+  padding: 10px;
+}
